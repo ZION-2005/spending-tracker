@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/spending-tracker/static/js/main.c50527cc.js",
+    "index.html": "/spending-tracker/index.html",
+    "main.c50527cc.js.map": "/spending-tracker/static/js/main.c50527cc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c50527cc.js"
+  ]
+}
